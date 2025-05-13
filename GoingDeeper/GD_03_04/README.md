@@ -17,7 +17,8 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 전체 실험에 대한 결과 분석이 중요하다고 생각합니다.
-        - ![스크린샷 2025-05-13 174646](https://github.com/user-attachments/assets/b09fa7dc-178b-4201-b59e-3bd5af455454)
+        - ![스크린샷 2025-05-13 174606](https://github.com/user-attachments/assets/cfc6d26c-2e65-4bdb-b39e-370817c14f07)
+
 
 
         
