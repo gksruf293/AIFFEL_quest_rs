@@ -28,8 +28,7 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 결과 해석에 대한 고민과 원인을 잘 설명했다.
-        - ![스크린샷 2025-05-13 174638](https://github.com/user-attachments/assets/47091c7e-7b7f-44de-8440-e3abe9506a53)
-
+        - ![스크린샷 2025-05-13 174646](https://github.com/user-attachments/assets/b09fa7dc-178b-4201-b59e-3bd5af455454)
         - 
         
 - [ ]  **4. 회고를 잘 작성했나요?**
