@@ -6,9 +6,9 @@
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
-        - 가설을 잘 설정하고 실험하였다.
-        - <img src="https://github.com/user-attachments/assets/1a3d5d7b-543d-4f53-8c39-57e1bd49fa7b" width="600"/>
-        - <img src="https://github.com/user-attachments/assets/c0383ca5-50bd-446a-9654-a7b94a4901fc" width="600"/>
+        - 가설을 잘 설정하
+        - ![스크린샷 2025-05-13 175008](https://github.com/user-attachments/assets/ce879e27-a17a-47a7-87ae-c8796bd57d33)
+고 실험하였다.
 
 
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
