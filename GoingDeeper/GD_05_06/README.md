@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 임한
+- 코더 : 임한결
 - 리뷰어 : 김영숙
 
 
